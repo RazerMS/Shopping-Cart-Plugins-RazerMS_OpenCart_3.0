@@ -5,6 +5,10 @@ Razer Merchant Services OpenCart Shopping Cart Plugin v3.0
 
 Razer Merchant Services Seamless Integration plugin for OpenCart 3.0.x develop by Razer Merchant Services technical team.
 
+UPDATE NOTICE
+-----------------
+Latest OpenCart 3.0 plugin moved to new URL https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_OpenCart_3.0
+
 Supported version
 -----------------
 New Update
